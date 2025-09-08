@@ -45,10 +45,7 @@ Curto explorar novas ferramentas e frameworks
 
 ---
 
-## 🐍 Animação da cobrinha  
 
-![Snake animation](https://github.com/Kaduhxl7/Kaduhxl7/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
-![Snake animation dark](https://github.com/Kaduhxl7/Kaduhxl7/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
