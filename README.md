@@ -1,4 +1,3 @@
-
 # Olá, eu sou o Kauan 👋  
 
 Sou entusiasta de tecnologia e programação, sempre buscando aprender e evoluir.  
@@ -21,6 +20,10 @@ Atualmente estudo e pratico linguagens voltadas para **PHP**, **JavaScript** e *
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rack-CC0000?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
 </div>
 
 ---
@@ -47,10 +50,6 @@ Curto explorar novas ferramentas e frameworks
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaduhxl7&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
-
----
-
-
 
 ---
 
