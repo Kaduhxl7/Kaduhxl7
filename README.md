@@ -1,8 +1,13 @@
+
 # Olá, eu sou o Kauan 👋  
 
 Sou entusiasta de tecnologia e programação, sempre buscando aprender e evoluir.  
 Tenho interesse em desenvolvimento **Web**, **APIs** e boas práticas de programação.  
 Atualmente estudo e pratico linguagens voltadas para **PHP**, **JavaScript** e **SQL**, além de explorar frameworks e ferramentas para acelerar o desenvolvimento.
+
+<div style="background-color:#000000; padding:20px; text-align:center;">
+  <img src="https://mittechreview.com.br/wp-content/uploads/2024/08/mit_trbr_artigo_banner1140x400_20240816.png" alt="Banner" width="1020"/>
+</div>
 
 ---
 
