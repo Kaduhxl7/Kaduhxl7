@@ -1,4 +1,4 @@
-# Olá, eu sou o Kauan 👋  
+# Olá, eu sou o Kauan Alves 👋  
 
 Sou entusiasta de tecnologia e programação, sempre buscando aprender e evoluir.  
 Tenho interesse em desenvolvimento **Web**, **APIs** e boas práticas de programação.  
