@@ -31,21 +31,25 @@ Atualmente estudo e pratico linguagens voltadas para **PHP**, **JavaScript** e *
 
 ---
 
-## 📚 Estou aprendendo atualmente  
-Ia básico ao avançado
-Ia copilot
-Engenharia de prompt
-Ia generativa
+## Atualmente estou aprendendo
+
+- Inteligência Artificial (do básico ao avançado)  
+- GitHub Copilot e uso de IA no desenvolvimento  
+- Engenharia de Prompt  
+- Inteligência Artificial Generativa  
+
+---
+
 ---
 
 ## Como entrar em contato comigo  
 
 <div>
-  <a href="https://www.linkedin.com/in/kauan-a-82ab0a381">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/kauan-a-82ab0a381" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-
-  <a href="https://github.com/Kaduhxl7">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  
+  <a href="https://github.com/Kaduhxl7" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   </a>
 </div>
