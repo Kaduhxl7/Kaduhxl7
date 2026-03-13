@@ -32,37 +32,20 @@ Atualmente estudo e pratico linguagens voltadas para **PHP**, **JavaScript** e *
 ---
 
 ## 📚 Estou aprendendo atualmente  
-Boas práticas com **PHP** (organização de código e padrões de projeto)  
-Banco de dados relacionais (**MySQL**)  
-Publicação de pacotes e projetos no **Composer / Packagist**  
-
+Ia básico ao avançado
+Ia copilot
+Engenharia de prompt
+Ia generativa
 ---
 
-## 🎯 Curiosidades  
-Gosto de aprender coisas novas todos os dias  
-Tenho interesse em desenvolvimento web e projetos open-source  
-Curto explorar novas ferramentas e frameworks  
+## Como entrar em contato comigo  
 
----
+<div>
+  <a href="https://www.linkedin.com/in/kauan-a-82ab0a381">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-## 📊 Minhas estatísticas no GitHub  
-
-<div align="center">
   <a href="https://github.com/Kaduhxl7">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaduhxl7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaduhxl7&layout=compact&langs_count=7&theme=radical"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
-
----
-
-## 📬 Como entrar em contato comigo  
-💼 [LinkedIn](https://www.linkedin.com/in/kauan-a-82ab0a381)  
-💻 [Meu GitHub](https://github.com/Kaduhxl7)  
-
----
-
-## 👀 Contador de visitas  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kaduhxl7&color=blue&style=flat-square&label=Visitas"/>
-</p>
