@@ -77,9 +77,7 @@ Atualmente estudo e pratico linguagens voltadas para **PHP**, **JavaScript** e *
 
 ## Projetos em destaque
 
-<a href="https://github.com/Kaduhxl7">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaduhxl7&repo=REhttps://github.com/Kaduhxl7/Projeto&theme=dark&hide_border=true"/>
-</a>
+
 
 
 ---
