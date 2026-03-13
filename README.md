@@ -44,12 +44,14 @@ Atualmente estudo e pratico linguagens voltadas para **PHP**, **JavaScript** e *
 
 ## Como entrar em contato comigo  
 
-<div>
-  <a href="https://www.linkedin.com/in/kauan-a-82ab0a381" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>
-  
-  <a href="https://github.com/Kaduhxl7" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  </a>
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> 
+  <a href="https://www.linkedin.com/in/kauan-a-82ab0a381">LinkedIn</a>
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> 
+  <a href="https://github.com/Kaduhxl7">GitHub</a>
+</p>
+
+---
