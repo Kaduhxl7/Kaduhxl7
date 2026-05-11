@@ -35,13 +35,7 @@ Sou **Técnico em Informática** com foco em desenvolvimento de sistemas de alto
 
 ---
 
-###  Projetos em Destaque
 
-- **Apex Performance Club**: Landing page premium com estética dark e foco em alta performance.
-- **Movie Streaming Platform**: Catálogo de filmes responsivo com sistema de busca inteligente.
-- **SaaS Lifetime Model**: Estrutura de landing page para startups com foco em conversão e usabilidade.
-
----
 
 ###  Setup de Desenvolvimento
 Como entusiasta de performance, opero em um ambiente otimizado:
