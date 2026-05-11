@@ -6,9 +6,10 @@
 Técnico em Informática com experiência no ciclo completo de desenvolvimento de sistemas.
 Especialista em PHP (Laravel), com domínio em C# (.NET) e Python (Django). Proficiente em
 Vue.js e React para criação de SPAs e integração com APIs RESTful. Diferencial em arquitetura
-de software (MVC e Design Patterns) e gestão de bancos de dados MySQL. Disponível para
-desafios em desenvolvimento de software ou suporte técnico especializado, unindo
-conhecimento de código à experiência em redes e hardware.
+de software (MVC e Design Patterns) e gestão de bancos de dados MySQL. Disponível para desafios 
+em desenvolvimento de software ou suporte técnico especializado, unindo conhecimento de código
+à experiência em redes e hardware.
+
 ---
 
 ## </> Tecnologias com as quais tenho contato  
