@@ -1,50 +1,61 @@
-Olá, eu sou o Kauan Alves 👋
-Desenvolvedor Full-Stack & Web Designer
+# Olá, eu sou o Kauan Alves 
 
-Sou Técnico em Informática com sólida experiência no ciclo completo de desenvolvimento de sistemas. Atualmente, meu foco está na criação de interfaces de alto padrão (Premium Design) e na integração de soluções inteligentes utilizando IA Generativa. Unindo domínio técnico em Back-end e Front-end, entrego aplicações responsivas, escaláveis e com foco total na experiência do usuário.
 
-Diferenciais: Especialista em integração de APIs de LLMs (OpenAI/Anthropic), Engenharia de Prompt e arquitetura de software (Design Patterns).
+###  Sobre mim:
 
-🛠️ Tecnologias e Competências
-Linguagens & Web
+Sou **Técnico em Informática** com foco em desenvolvimento de sistemas de alto padrão. Especialista em **PHP (Laravel)**, com sólida experiência em **C# (.NET)** e **Python (Django)**. Atuo na criação de interfaces modernas com **Vue.js** e **React**, sempre priorizando o design responsivo (Mobile-first) e estéticas premium.
 
-Back-end: PHP (Laravel), C# (.NET) e Python (Django).
+*  **Especialidade em IA:** Integração de APIs de LLMs (OpenAI/Anthropic) e Engenharia de Prompt.
+*  **Web Design:** Foco em Material Design 3, Dark Mode e layouts de alta conversão.
+*  **Arquitetura:** Aplicação de padrões MVC, Repository, Singleton e Observer.
 
-Front-end: Vue.js, React, HTML5, CSS3 e JavaScript (ES6+).
+---
 
-Design: Material Design 3, Design Responsivo (Mobile-first) e interfaces em Dark Mode.
+###  Tecnologias e Ferramentas
 
-Inteligência Artificial (IA)
+**Linguagens e Back-end**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-Desenvolvimento de Agentes de IA e automação.
+**Front-end e Design**
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Integração de modelos de linguagem (LLMs) via API.
+**Inteligência Artificial & Outros**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Engenharia de Prompt avançada para otimização de fluxos de trabalho.
+---
 
-Arquitetura & Infraestrutura
+###  Projetos em Destaque
 
-Padrões: MVC, Repository, Singleton e Observer.
+- **Apex Performance Club**: Landing page premium com estética dark e foco em alta performance.
+- **Movie Streaming Platform**: Catálogo de filmes responsivo com sistema de busca inteligente.
+- **SaaS Lifetime Model**: Estrutura de landing page para startups com foco em conversão e usabilidade.
 
-Bancos de Dados: Modelagem e gerenciamento de MySQL.
+---
 
-Ambiente: Git (versionamento), Metodologias Ágeis e ferramentas como AmazonQ e IA Base44.
+###  Setup de Desenvolvimento
+Como entusiasta de performance, opero em um ambiente otimizado:
+* **GPU:** NVIDIA RTX 3060 12GB
+* **CPU:** AMD Ryzen 7 5700X
+* **RAM:** 32GB
+* **Monitor:** 165Hz Full HD
 
-🚀 Projetos em Destaque
-Apex Performance Club: Landing page premium para academia de alto padrão, focada em conversão, exclusividade e estética dark mode.
+---
 
-Plataforma de Streaming & Catálogo: Sistema completo de busca e exibição de filmes com interface mobile-first e gerenciamento de estado eficiente.
+### 📫 Conecte-se comigo
 
-SaaS Landing Page: Projeto inspirado em modelos de pagamento único (lifetime access) focado em produtividade para freelancers.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
 
-💻 Setup & Hardware
-Para desenvolvimento e testes de performance, utilizo um ambiente de alto desempenho:
-
-GPU: NVIDIA RTX 3060 12GB | CPU: Ryzen 7 5700X | RAM: 32GB.
-
-📫 Como entrar em contato comigo
-LinkedIn
-
-GitHub
-
-Idiomas: Inglês (Nível intermediário - Leitura técnica).
+---
+*Inglês: Nível Intermediário (Leitura Técnica)*
