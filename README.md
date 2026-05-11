@@ -63,14 +63,6 @@ em desenvolvimento de software ou suporte técnico especializado, unindo conheci
   
 ---
 
-## Atualmente estou aprendendo
-
-- Inteligência Artificial (do básico ao avançado)  
-- GitHub Copilot e uso de IA no desenvolvimento  
-- Engenharia de Prompt  
-- Inteligência Artificial Generativa  
-
----
 
 ## Projetos em destaque
 
