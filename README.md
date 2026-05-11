@@ -3,11 +3,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=900&color=3BA4F7&center=true&vCenter=true&width=750&lines=Kauan+Alves+-+Web+Developer;Backend+Developer+in+Progress;Building+APIs+and+Web+Applications;Exploring+AI+and+Modern+Technologies"/>
 </p>
-
-Sou entusiasta de tecnologia e programação, sempre buscando aprender e evoluir.  
-Tenho interesse em desenvolvimento **Web**, **APIs** e boas práticas de programação.  
-Atualmente estudo e pratico linguagens voltadas para **PHP**, **JavaScript** e **SQL**, além de explorar frameworks e ferramentas que aceleram o desenvolvimento.
-              
+Técnico em Informática com experiência no ciclo completo de desenvolvimento de sistemas.
+Especialista em PHP (Laravel), com domínio em C# (.NET) e Python (Django). Proficiente em
+Vue.js e React para criação de SPAs e integração com APIs RESTful. Diferencial em arquitetura
+de software (MVC e Design Patterns) e gestão de bancos de dados MySQL. Disponível para
+desafios em desenvolvimento de software ou suporte técnico especializado, unindo
+conhecimento de código à experiência em redes e hardware.
 ---
 
 ## </> Tecnologias com as quais tenho contato  
