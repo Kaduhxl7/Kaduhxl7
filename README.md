@@ -1,86 +1,50 @@
-# Olá, eu sou o Kauan Alves 👋  
+Olá, eu sou o Kauan Alves 👋
+Desenvolvedor Full-Stack & Web Designer
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=900&color=3BA4F7&center=true&vCenter=true&width=750&lines=Kauan+Alves+-+Web+Developer;Backend+Developer+in+Progress;Building+APIs+and+Web+Applications;Exploring+AI+and+Modern+Technologies"/>
-</p>
-Técnico em Informática com experiência no ciclo completo de desenvolvimento de sistemas.
-Especialista em PHP (Laravel), com domínio em C# (.NET) e Python (Django). Proficiente em
-Vue.js e React para criação de SPAs e integração com APIs RESTful. Diferencial em arquitetura
-de software (MVC e Design Patterns) e gestão de bancos de dados MySQL. Disponível para desafios 
-em desenvolvimento de software ou suporte técnico especializado, unindo conhecimento de código
-à experiência em redes e hardware.
+Sou Técnico em Informática com sólida experiência no ciclo completo de desenvolvimento de sistemas. Atualmente, meu foco está na criação de interfaces de alto padrão (Premium Design) e na integração de soluções inteligentes utilizando IA Generativa. Unindo domínio técnico em Back-end e Front-end, entrego aplicações responsivas, escaláveis e com foco total na experiência do usuário.
 
----
+Diferenciais: Especialista em integração de APIs de LLMs (OpenAI/Anthropic), Engenharia de Prompt e arquitetura de software (Design Patterns).
 
-## </> Tecnologias com as quais tenho contato  
+🛠️ Tecnologias e Competências
+Linguagens & Web
 
-<p><strong>Linguagens</strong></p>
-<div>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</div>
+Back-end: PHP (Laravel), C# (.NET) e Python (Django).
 
-<br>
+Front-end: Vue.js, React, HTML5, CSS3 e JavaScript (ES6+).
 
-<p><strong>Desenvolvimento Web</strong></p>
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
-</div>
+Design: Material Design 3, Design Responsivo (Mobile-first) e interfaces em Dark Mode.
 
-<br>
+Inteligência Artificial (IA)
 
-<p><strong>Frameworks</strong></p>
-<div>
-  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-</div>
+Desenvolvimento de Agentes de IA e automação.
 
-<br>
+Integração de modelos de linguagem (LLMs) via API.
 
-<p><strong>Banco de Dados</strong></p>
-<div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
+Engenharia de Prompt avançada para otimização de fluxos de trabalho.
 
-<br>
+Arquitetura & Infraestrutura
 
-<p><strong>Ferramentas e Ambiente de Desenvolvimento</strong></p>
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
-</div>
-  
----
+Padrões: MVC, Repository, Singleton e Observer.
 
+Bancos de Dados: Modelagem e gerenciamento de MySQL.
 
-## Projetos em destaque
+Ambiente: Git (versionamento), Metodologias Ágeis e ferramentas como AmazonQ e IA Base44.
 
+🚀 Projetos em Destaque
+Apex Performance Club: Landing page premium para academia de alto padrão, focada em conversão, exclusividade e estética dark mode.
 
+Plataforma de Streaming & Catálogo: Sistema completo de busca e exibição de filmes com interface mobile-first e gerenciamento de estado eficiente.
 
+SaaS Landing Page: Projeto inspirado em modelos de pagamento único (lifetime access) focado em produtividade para freelancers.
 
----
+💻 Setup & Hardware
+Para desenvolvimento e testes de performance, utilizo um ambiente de alto desempenho:
 
-## Como entrar em contato comigo  
+GPU: NVIDIA RTX 3060 12GB | CPU: Ryzen 7 5700X | RAM: 32GB.
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> 
-  <a href="https://www.linkedin.com/in/kauan-a-82ab0a381">LinkedIn</a>
-</p>
+📫 Como entrar em contato comigo
+LinkedIn
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> 
-  <a href="https://github.com/Kaduhxl7">GitHub</a>
-</p>
+GitHub
 
----
+Idiomas: Inglês (Nível intermediário - Leitura técnica).
