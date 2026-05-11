@@ -42,7 +42,7 @@ Como entusiasta de performance, opero em um ambiente otimizado:
 * **GPU:** NVIDIA RTX 3060 12GB
 * **CPU:** AMD Ryzen 7 5700X
 * **RAM:** 32GB
-* **Monitor:** 165Hz Full HD
+
 
 ---
 
