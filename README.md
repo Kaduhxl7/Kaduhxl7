@@ -6,7 +6,7 @@
 Sou **Técnico em Informática** com foco em desenvolvimento de sistemas de alto padrão. Especialista em **PHP (Laravel)**, com sólida experiência em **C# (.NET)** e **Python (Django)**. Atuo na criação de interfaces modernas com **Vue.js** e **React**, sempre priorizando o design responsivo (Mobile-first) e estéticas premium.
 
 *  **Especialidade em IA:** Integração de APIs de LLMs (OpenAI/Anthropic) e Engenharia de Prompt.
-*  **Web Design:** Foco em Material Design 3, Dark Mode e layouts de alta conversão.
+*  **Web Design:** Foco em Material Design 3 e layouts de alta conversão.
 *  **Arquitetura:** Aplicação de padrões MVC, Repository, Singleton e Observer.
 
 ---
